@@ -1,0 +1,2 @@
+# FlowType.JS
+FlowType.JS
